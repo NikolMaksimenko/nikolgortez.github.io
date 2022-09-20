@@ -1,0 +1,65 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#fon {
+    width: 100%;
+    background-color: rgb(158, 30, 30);
+    padding: 70px;
+    height: 300px;
+}
+
+#foni {
+    background-color: rgb(175, 125, 125);
+    width: 70%;
+    height: 150px;
+    border: none;
+    text-align: center;
+    padding: 20px;
+    margin: 0 20% 0 20%;
+}
+
+#logo {
+    float: left;
+    margin: -70px;
+    width: 290px;
+    height: 220px;
+}
+
+nav {
+    padding: 4px white;
+    background-color: rgb(139, 80, 80);
+    width: 60%;
+    margin: 0 20% 0 20%;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+a {
+    color: black;
+}
+
+div {
+    padding: 10px white;
+    background-color: rgb(108, 104, 104);
+    width: 60%;
+    margin: 0 20% 0 20%;
+}
+
+caption {
+    caption-side: top;
+}
+
+.site-title {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+footer {
+    width: 100%;
+    background-color: rgb(163, 24, 24);
+}
